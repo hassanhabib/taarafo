@@ -7,7 +7,7 @@ The way Taarafo works, is that it decenteralizes the ownership and governance of
 I believe everyone in the world should be able to express their opinions, it's a basic human right to be able to share your thoughts with the world fearlessly without fearing to be cancelled and completely eliminated from your cyber existence.
 
 <div align=center>
-  
-![TAARAFO](https://user-images.githubusercontent.com/1453985/104136056-b5eeaa00-5348-11eb-8305-c3d3a741ca8c.png)
+
+![TAARAFO](https://user-images.githubusercontent.com/1453985/104136099-f64e2800-5348-11eb-8901-801b7e0f9172.png)
 
 </div>
