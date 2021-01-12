@@ -6,6 +6,9 @@ The way Taarafo works, is that it decenteralizes the ownership and governance of
 
 I believe everyone in the world should be able to express their opinions, it's a basic human right to be able to share your thoughts with the world fearlessly without fearing to be cancelled and completely eliminated from your cyber existence.
 
+<img width=20 src="https://www.searchmarketingaustralia.com.au/wp-content/uploads/2017/10/original_images_YouTube.png" /> [FSE001: Introduction](https://www.youtube.com/watch?v=UahyWHh5F3U)
+
+
 <div align=center>
 
 ![TAARAFO](https://user-images.githubusercontent.com/1453985/104136099-f64e2800-5348-11eb-8901-801b7e0f9172.png)
